@@ -28,9 +28,8 @@ body{
 .all{
     margin:auto;
     display: block;
-    
-    
-}
+    }
+
 .skills li{
 list-style-type: none;
 text-decoration: none;
@@ -144,7 +143,7 @@ i{
 }
 .me li{
 margin-left: -1.2rem;
-width: 454px;
+/* width: 254px;
 height: 46px;
 left: 347px;
 top: 238px;
@@ -152,37 +151,23 @@ top: 238px;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 400;
-font-size: 16px;
-line-height: 24px;
+font-size: 13px;
+line-height: 24px; */
 
 color: #000000;
 
 }
 #y{
-width: 77px;
-height: 18px;
-left: 334px;
-top: 520px;
-
+margin-top: 1rem;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 700;
 font-size: 14px;
-line-height: 21px;
-
 color: #080C62;
 }
 
 
 .s{
-
-
-
-position: absolute;
-width: 304px;
-height: 19px;
-left: 331px;
-top: 645px;
 
 font-family: 'Poppins';
 font-style: normal;
